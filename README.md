@@ -1,10 +1,10 @@
 ## Hi, I'm Xinyu :whale2:
 
-An enthusiastic front-end developer with patience and creativity.  
-  
-I enjoy completing projects from the design ideas step by step.  
-  
-Learning web development technologies and knowledge brings me the ability and confidence to solve problems.
+A reliable developer with patience and a comprehensive perspective on matters.  
+
+I like to complete projects from the design ideas step by step.  
+
+Always do my best to improve user experiences and beautify user interface.  
 
 Nice to meet you guys! :blush:  
 
