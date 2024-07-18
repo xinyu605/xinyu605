@@ -13,7 +13,7 @@ Nice to meet you guys! :blush:
 
 ### Skills
 
-<div class="skills">
+<div style="display: flex; align-items: center; gap: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/>
@@ -27,11 +27,3 @@ Nice to meet you guys! :blush:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MaterialUI" title="MaterialUI" width="36" height="36"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/storybook/storybook-original-wordmark.svg" alt="StoryBook" title="StoryBook" width="36" height="36"/>
 </div>
-
-<style>
-  .skills {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-</style>
